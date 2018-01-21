@@ -17,6 +17,9 @@
 - buttons or text input, and various responses.
 
 
+- change id to classes
+- jQuery?
+
 >> Where to put the script file depending on what you want to do?
   > head, top of body, or bottom of body?
 
