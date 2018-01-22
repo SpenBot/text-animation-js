@@ -9,12 +9,32 @@
 - recursive functions
 - vanilla javascript DOM manipulation
 - HTML "onclick" attributes
+- Javascript "onkeydown"
+- show/hide toggle with vanilla javascript
+
+## To-Do's
+
+- keydown function for ENTER
+- add user text input
+
+- variables for user input and responses.
+
+- add in web sounds, to replace play() function
+- fix text wrap
+
+- scan lines
+- robot wakes up on window.load
+- turn-on animation and analog switch image
 
 
-- add in robot
-- function to start and stop the robot from talking
-- an onDocumentLoad function, that animates the window in, and wakes up the robot
-- buttons or text input, and various responses.
+
+
+
+
+
+> change id to classes, (how to do vanilla JS document stuff)
+> jQuery?
+> how do you split up into multiple javascript files here?
 
 
 >> Where to put the script file depending on what you want to do?
