@@ -27,18 +27,12 @@
 - turn-on animation and analog switch image
 
 
+## Issues
 
+- play() functions can't keep up with text animation setInterval() speed.
+- how should I handle user input, and dedicated responses? right now, they just go in order.
 
-
-
-
-> change id to classes, (how to do vanilla JS document stuff)
-> jQuery?
-> how do you split up into multiple javascript files here?
-
-
->> Where to put the script file depending on what you want to do?
-  > head, top of body, or bottom of body?
-
->> I would like it to have some sort of user input or something.
->> How do you build it with some dedicated answers and it goes through all of them?
+- should change id attributes to classes, forgot how to do DOM selectors in vanilla javascript
+- should I just use jQuery? forgot how to do jQuery
+- how do you split this up into multiple js files? in header? what about the global variables?
+- where should I put the different <script> files? head, top of body, or bottom of body?
